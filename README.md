@@ -1,2 +1,2 @@
-# taxi driver application
- an application for taxi friver to find their customer faster 
+# Score-Calculation-Application-for-Primary-School-in-QingDao
+ an application for parent to find best Primary school for children 
